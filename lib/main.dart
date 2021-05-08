@@ -11,7 +11,7 @@ Future main() async {
 }
 
 class MyApp extends StatelessWidget {
-  static final String title = 'Google SignIn and Twitter SignIn';
+  static final String title = 'The Sparks Foundation App';
 
   @override
   Widget build(BuildContext context) => MaterialApp(

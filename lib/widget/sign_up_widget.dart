@@ -23,7 +23,7 @@ class SignUpWidget extends StatelessWidget {
               margin: EdgeInsets.symmetric(horizontal: 20),
               width: 175,
               child: Text(
-                'Spark Internship\nWelcome Back To GRIP App',
+                'The\nSparks\nFoundation \n\nGRIP\n\n',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 30,

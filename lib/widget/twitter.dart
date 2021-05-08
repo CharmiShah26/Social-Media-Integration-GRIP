@@ -22,7 +22,7 @@ class _MyAppState extends State<Twitter> {
     switch (result.status) {
       case TwitterLoginStatus.loggedIn:
         newMessage =
-            'Logged in! userID: ${result.session.userId}\nusername: ${result.session.username}';
+            'Logged in!\nuserID: ${result.session.userId}\nusername: ${result.session.username}';
         break;
       case TwitterLoginStatus.cancelledByUser:
         newMessage = 'Login cancelled by user.';
@@ -50,6 +50,7 @@ class _MyAppState extends State<Twitter> {
     return new MaterialApp(
       home: new Scaffold(
         appBar: new AppBar(
+          centerTitle: true,
           title: new Text('Login through Twitter'),
         ),
         body: new Center(

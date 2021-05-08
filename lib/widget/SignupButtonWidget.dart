@@ -19,7 +19,7 @@ class SignupButtonWidget extends StatelessWidget {
               children: <Widget>[
                 new Image.asset(
                   'images/sparks.png',
-                  height: 40.0,
+                  height: 30.0,
                 ),
                 new Container(
                     padding: EdgeInsets.only(left: 10.0, right: 10.0),
