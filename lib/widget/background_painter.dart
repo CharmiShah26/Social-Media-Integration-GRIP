@@ -11,19 +11,19 @@ class Point {
 
 class BackgroundPainter extends CustomPainter {
   final Paint linePaint;
+  final Paint redAccentPaint;
   final Paint bluePaint;
   final Paint greyPaint;
-  final Paint orangePaint;
 
   BackgroundPainter()
       : bluePaint = Paint()
           ..color = Colors.lightBlue.shade300
           ..style = PaintingStyle.fill,
         greyPaint = Paint()
-          ..color = Colors.blueGrey[900]
+          ..color = Colors.blueGrey[700]
           ..style = PaintingStyle.fill,
-        orangePaint = Paint()
-          ..color = Colors.orange.shade400
+        redAccentPaint = Paint()
+          ..color = Colors.redAccent
           ..style = PaintingStyle.fill,
         linePaint = Paint()
           ..color = Colors.orange[300]
@@ -120,7 +120,7 @@ class BackgroundPainter extends CustomPainter {
       Point(size.width * 3 / 4, 0),
     ]);
 
-    canvas.drawPath(path, orangePaint);
+    canvas.drawPath(path, redAccentPaint);
   }
 
   @override

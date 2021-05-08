@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_signin_example/widget/background_painter.dart';
 import 'package:google_signin_example/widget/google_signup_button_widget.dart';
 import 'package:google_signin_example/widget/TwitterSignupwidget.dart';
+import 'package:google_signin_example/widget/SignupButtonWidget.dart';
 
 class SignUpWidget extends StatelessWidget {
   @override
@@ -34,9 +35,10 @@ class SignUpWidget extends StatelessWidget {
           Spacer(),
           GoogleSignupButtonWidget(),
           TwitterSignupButtonWidget(),
+          SignupButtonWidget(),
           SizedBox(height: 12),
           Text(
-            'Login to continue',
+            'Welcome back',
             style: TextStyle(fontSize: 16),
           ),
           Spacer(),

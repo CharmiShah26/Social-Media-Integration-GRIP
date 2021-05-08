@@ -7,22 +7,31 @@ class GoogleSignupButtonWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Container(
         padding: EdgeInsets.all(4),
-        child: OutlineButton.icon(
-          label: Text(
-            'Sign In With Google',
-            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
-          ),
-          shape: StadiumBorder(),
-          padding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-          highlightedBorderColor: Colors.black,
-          borderSide: BorderSide(color: Colors.black),
-          textColor: Colors.black,
-          icon: FaIcon(FontAwesomeIcons.google, color: Colors.red),
-          onPressed: () {
-            final provider =
-                Provider.of<GoogleSignInProvider>(context, listen: false);
-            provider.login();
-          },
-        ),
+        child: new RaisedButton(
+            padding: EdgeInsets.only(top: 3.0, bottom: 3.0, left: 3.0),
+            color: Colors.white,
+            onPressed: () {
+              final provider =
+                  Provider.of<GoogleSignInProvider>(context, listen: false);
+              provider.login();
+            },
+            child: new Row(
+              mainAxisSize: MainAxisSize.min,
+              children: <Widget>[
+                new Image.asset(
+                  'images/Google.png',
+                  height: 30.0,
+                ),
+                new Container(
+                    padding: EdgeInsets.only(left: 10.0, right: 10.0),
+                    child: new Text(
+                      "Sign in with Google",
+                      style: TextStyle(
+                          color: Colors.black,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 15),
+                    )),
+              ],
+            )),
       );
 }
