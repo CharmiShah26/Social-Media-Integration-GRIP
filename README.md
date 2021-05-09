@@ -8,7 +8,7 @@ Learn how to integrate Signin with Google,Twitter and your own app with Firebase
 
 [<img align="center" alt="CharmiShah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://https://twitter.com/CharmiShah26 "Twitter Charmi Shah")&ensp;Twitter: [@CharmiShah](https://twitter.com/CharmiShah26)
 
-[<img align="center" alt="Charmi Shah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/charmi-shah-4301011bb/ "Linkedin Charmi Shah")&ensp;Linkedin: [@ Charmi Shah](https://www.linkedin.com/in/charmi-shah-4301011bb/)
+[<img align="center" alt="Charmi Shah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/charmishah2611/ "Linkedin Charmi Shah")&ensp;Linkedin: [@ Charmi Shah](https://www.linkedin.com/in/charmishah2611/)
 
 ### ✌&ensp;Preview
 
