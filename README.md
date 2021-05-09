@@ -1,23 +1,20 @@
 # Flutter Tutorial - Google SignIn With Firebase
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
 
-Learn how to integrate Signin with Google into your Firebase and Flutter app.
+
+Learn how to integrate Signin with Google,Twitter and your own app into your Firebase and Flutter app.
 
 ### ⚡&ensp;Social Media
 
-[<img align="center" alt="JohannesMilke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")&ensp;Twitter: [@JohannesMilke](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")
+[<img align="center" alt="CharmiShah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://https://twitter.com/CharmiShah26 "Twitter Charmi Shah")&ensp;Twitter: [@CharmiShah](https://twitter.com/CharmiShah26)
 
-[<img align="center" alt="JohannesMilke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")&ensp;Linkedin: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")
-
-[<img align="center" alt="JohannesMilke | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@JohannesMilke "Medium Johannes Milke")&ensp;Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
+[<img align="center" alt="Charmi Shah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/charmi-shah-4301011bb/ "Linkedin Charmi Shah")&ensp;Linkedin: [@ Charmi Shah](https://www.linkedin.com/in/charmi-shah-4301011bb/)
 
 ### ✌&ensp;Preview
 
 |              App Preview             |             Screenshot            |
 | :----------------------------------: | :----------------------------------: |
-| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="ezgif.com-gif-maker.gif" width="400"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="Screenshot_20210508-221235.jpeg" width="400"></a> |
+| <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="ezgif.com-gif-maker.gif" width="400"></a> | <img src="Screenshot_20210508-221235.jpeg" width="400"></a> |
 
 ➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
 
