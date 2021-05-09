@@ -2,7 +2,7 @@
 [![Youtube](https://img.shields.io/static/v1?label=CharmiShah&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 
-Learn how to integrate Signin with Google,Twitter and your own app into your Firebase and Flutter app.
+Learn how to integrate Signin with Google,Twitter and your own app with Firebase and Flutter.
 
 ### ⚡&ensp;Social Media
 
