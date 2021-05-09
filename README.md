@@ -21,4 +21,4 @@ Learn how to integrate Signin with Google,Twitter and your own app with Firebase
 ##### [YouTube video](https://youtu.be/nIDwdsNfGcM "Youtube Charmi Shah") where the *implementation* is showed. [Subscribe YouTube channel.](https://youtu.be/nIDwdsNfGcM "YouTube Subscribe Charmi Shah")  
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://youtu.be/nIDwdsNfGcM
+[youtube]: https://www.youtube.com/channel/UCKvoIN5DFsaIN_k8Yl_t9mw
