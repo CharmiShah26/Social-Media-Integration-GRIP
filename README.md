@@ -1,5 +1,5 @@
 # Flutter Tutorial - Google SignIn With Firebase
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=CharmiShah&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 
 Learn how to integrate Signin with Google,Twitter and your own app into your Firebase and Flutter app.
@@ -15,8 +15,6 @@ Learn how to integrate Signin with Google,Twitter and your own app into your Fir
 |              App Preview             |             Screenshot            |
 | :----------------------------------: | :----------------------------------: |
 | <a href="https://www.youtube.com/watch?v=ogW83xGQGTg" target="_blank"><img src="ezgif.com-gif-maker.gif" width="400"></a> | <img src="Screenshot_20210508-221235.jpeg" width="400"></a> |
-
-➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
 
 ### 📺&ensp;Watch Video
 
