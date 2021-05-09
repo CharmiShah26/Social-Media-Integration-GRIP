@@ -1,4 +1,4 @@
-# Flutter Tutorial - Google SignIn With Firebase
+# Social Media Intergation App (Task #5) , done for The Sparks Foundation as GRIP 
 [![Youtube](https://img.shields.io/static/v1?label=CharmiShah&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 
